@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AdaBuenosAires 
-- 👀 I’m interested in nodejs, flutter and bootstrap
-- 🌱 I’m currently learning flutter
+- 🐍 I’m interested in Python and Flutter 
+- 🌱 I’m currently learning Goland
 - 💞️ I’m looking to collaborate on IoT projects for winter and water sports
-- 📫 How to reach me --> Jorgelina Pera
+- 📫 How to reach me --> María Jorgelina Pera Ada Lovelace
 
 <!---
 AdaBuenosAires/AdaBuenosAires is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
