@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdaBuenosAires 
-- 🐍 I’m interested in Java, Python, Flutter and Blockchain 
-- 🌱 I’m currently learning Goland
-- 💞️ I’m looking to collaborate on IoT projects for winter and water sports
+- 🐍 I’m interested in Java, Python, Flutter and Blockchain with smart contracts  
+- 🌱 I’m currently learning Goland and Solidity
+- 💞️ I’m looking to collaborate on IoT projects for safer winter and water sports, using open source
 - 📫 How to reach me --> María Jorgelina Pera Ada Lovelace
 
 <!---
