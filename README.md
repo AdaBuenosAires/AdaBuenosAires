@@ -1,4 +1,3 @@
-💻 Passionate software developer with a love for Python and Go. 
-💡 🛰️🛸🚁 Enthusiastic about IoT and AI for computer vision and images.
-🍷 ⛷️🎿🏄🏻‍♀️ Focuses on industries such as Sustainability, Hospitality, Water and Winter Sports.  
-🌱🌱🌱🌱 Dedicated to making a positive impact on the environment. 
+💻 Experienced software developer specializing in Python and Go, with a strong focus on creating innovative solutions in IoT and AI for computer vision.
+💡 Passionate about applying technology to diverse industries including Sustainability, Hospitality, and Water and Winter Sports. 🍷 ⛷️🏄🏻‍♀️
+🌱🌱🌱🌱 Committed to leveraging skills in image processing to contribute positively to the environment.
