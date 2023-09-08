@@ -1,3 +1,3 @@
-💻 Experienced software developer specializing in Python- Django, and React, with a strong focus on creating innovative solutions with AI libraries, for computer vision applied to optimize user experience and efficiencies (OpenCV, TensorFlow, Keras, PyTorch, Darknet- YOLO, dlib, MediaPipe, scikit-image) 
-💡 Passionate about applying technology to diverse industries including Sustainability, Hospitality, Experiences, and Winter Sports. 🍷 ⛷️🏄🏻‍♀️
+💻 Software engineer @ AspenAI. Specializing in Computer Vision Analysis with Privacy for Ski Resorts. I use Machine Learning and Deep learning, Python, Django, and React. We focus on Creating innovative solutions applied to optimize the user experience and the generation of efficiencies. | OpenCV, TensorFlow, Keras, PyTorch, Darknet- YOLO.
+💡 Passionate about bringing solutions to the industries of Sustainability, Hospitality, Mountain Experiences, and Winter Sports. 🍷 ⛷️🏄🏻‍♀️
 🌱🌱🌱🌱 Committed to contribute positively to the environment.
