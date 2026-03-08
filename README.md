@@ -1,7 +1,7 @@
 # Hi, I'm Maria 👋
 
 ## 🔍 About Me
-Software Engineer & Lawyer specializing in AI Governance. I help businesses harness AI's potential while navigating regulatory complexities.
+Software Engineer & Lawyer specializing in Fintech and AI Governance.  I help businesses harness AI's potential while navigating regulatory complexities.
 
 ## 💡 What I Do
 I empower highly regulated industries to:
@@ -12,7 +12,7 @@ I empower highly regulated industries to:
 
 ## 🛡️ My Focus
 Simplifying AI governance for regulated sectors:
-- 🏥 Healthcare: Enhancing patient experiences
+
 - ⚡ Energy: Optimizing resource utilization
 - 🏦 Finance: Streamlining operations
 - 🔒 Privacy & Security: Ensuring compliance
